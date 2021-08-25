@@ -1,0 +1,29 @@
+{
+    "todolists": [
+      {
+        "item": "Assignment",
+        "isDisabled": true,
+        "id": 3
+      },
+      {
+        "item": "Complete React tutorial",
+        "isDisabled": false,
+        "id": 4
+      },
+      {
+        "item": "Eat medicine at evening",
+        "isDisabled": false,
+        "id": 5
+      },
+      {
+        "item": "Morning Walk",
+        "isDisabled": false,
+        "id": 6
+      },
+      {
+        "item": "Meet with team",
+        "isDisabled": false,
+        "id": 7
+      }
+    ]
+  }
